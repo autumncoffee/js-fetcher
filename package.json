@@ -1,0 +1,13 @@
+{
+  "name": "ac-fetcher",
+  "version": "1.0.0",
+  "description": "Axios wrapper with default timeout, retries and queueing capabilities",
+  "main": "ac_fetcher.js",
+  "private": true,
+  "dependencies": {
+    "axios": "0.21.1"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  }
+}
